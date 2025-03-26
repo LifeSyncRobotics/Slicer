@@ -36,7 +36,6 @@ jobs:
               - "Libs/**"
               - "Modules/**"
               - "Resources/**"
-              - "Testing/**"
               - "CMakeLists.txt"
 
       # Retrieve changes in SuperBuild-related files relative to the 'nightly-main' branch
